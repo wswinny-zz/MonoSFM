@@ -1,0 +1,5 @@
+/Users/swinny/Desktop/AutonomousFlight-master/sfm/Dependencies/SSBA-3.0/build/CMakeFiles/V3D.dir
+/Users/swinny/Desktop/AutonomousFlight-master/sfm/Dependencies/SSBA-3.0/build/Apps/CMakeFiles/bundle_varying_nonlinlsq.dir
+/Users/swinny/Desktop/AutonomousFlight-master/sfm/Dependencies/SSBA-3.0/build/Apps/CMakeFiles/bundle_varying.dir
+/Users/swinny/Desktop/AutonomousFlight-master/sfm/Dependencies/SSBA-3.0/build/Apps/CMakeFiles/bundle_common.dir
+/Users/swinny/Desktop/AutonomousFlight-master/sfm/Dependencies/SSBA-3.0/build/CMakeFiles/colamd.dir
